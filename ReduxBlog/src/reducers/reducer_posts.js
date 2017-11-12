@@ -3,7 +3,8 @@ import { fetchPosts } from '../actions';
 import { connect } from 'react-redux';
 import _ from 'lodash';
 
-//KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:36
+//KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:44
+//KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:05
 //KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:05
 //KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:05
 export default function(state = {} , action) {
