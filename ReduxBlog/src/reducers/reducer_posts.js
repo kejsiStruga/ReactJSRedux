@@ -3,6 +3,8 @@ import { fetchPosts } from '../actions';
 import { connect } from 'react-redux';
 import _ from 'lodash';
 
+//KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:12
+//KEJSI ADDED COMMENT ON: Nov 12, 2017, 16:05
 export default function(state = {} , action) {
 	switch(action.type) {
 		case FETCH_POSTS:
